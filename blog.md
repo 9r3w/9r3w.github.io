@@ -1,14 +1,16 @@
 ---
 layout: default
-title: 9r3w's pages
+title: Blogs List
 ---
 
-blogs list
 
-<ul>
+<div class="blog-card">
   {% for post in site.posts %}
-    <li>
+    <div class="blog-card-link">
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    </div>
+    <div class="blog-card-date">
+      {{ post.date }}
+    </div>
   {% endfor %}
-</ul>
+</div>
