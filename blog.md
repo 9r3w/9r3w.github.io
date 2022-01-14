@@ -14,6 +14,9 @@ title: Blogs List
         <div class="blog-card-date">
           {{ post.date | date_to_string }}
         </div>
+        <div class="blog-card-cont">
+          {{ post.content | slice: 0, 100 }}
+        </div>
       </a>
     </div>
   {% endfor %}
