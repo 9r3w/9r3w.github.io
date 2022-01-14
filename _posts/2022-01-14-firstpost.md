@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "POST TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
+title: "First Post"
+date: 2022-01-14 12:30:00 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---
 
