@@ -1,3 +1,14 @@
-body{
+body {
 	background: #FEFEFE;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+div#footer {
+	border-top: solid 1px #0005;
+}
+
+div#page-date {
+	font-size: small;
+	color: #000000AA;
 }
