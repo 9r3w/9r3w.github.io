@@ -1,15 +1,16 @@
 ---
-layout: page
-title: "First post"
-date: 2022-01-14
+layout: post
+title: "POST TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 # Fist post
 
 Hello World
 
-���{�ꂵ�������ł��Ȃ�����,���{��ŋL���𓊍e���܂�
+日本語しか理解できないため,日本語で記事を投稿します
 
-���e�̓v���O���~���O�̂悤�ȋZ�p�n����K���ȓ��L�܂ŐF�X�����Ǝv���܂�
+内容はプログラミングのような技術系から適当な日記まで色々書くと思います
 
-�ȏ�
+以上
