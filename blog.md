@@ -10,7 +10,7 @@ title: Blogs List
       <a href="{{ post.url }}">{{ post.title }}</a>
     </div>
     <div class="blog-card-date">
-      {{ post.date }}
+      {{ post.date | date_to_string }}
     </div>
   {% endfor %}
 </div>
