@@ -5,9 +5,9 @@ title: 9r3w's pages
 
 ## About me
 
-### Name
+Name : 9r3w
 
-9r3w
+Country : Japan
 
 ### Interest / Fun
 
@@ -15,9 +15,11 @@ title: 9r3w's pages
   - Web Frontend( JS / TS / React )
   - Signal Processing( C++ / Py )
   - Generative Coding( p5.js / Canvas )
-- DTM
+
+- Music
   - Composition and arrangement
-  - VGM, Classic, Jazz etc…
+  - VGM, Pops, Electronic, Jazz etc…
+
 - Video Game Playing
   - Minecraft
   - SSBU
