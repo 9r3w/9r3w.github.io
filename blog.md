@@ -18,6 +18,9 @@ title: Blogs List
       <div class="blog-card-expt">
         {{ post.excerpt }}
       </div>
+      <a href="{{ post.url }}">
+        read more
+      </a>
     </div>
   {% endfor %}
 </div>
