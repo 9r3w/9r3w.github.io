@@ -7,6 +7,8 @@ categories: CATEGORY-1 CATEGORY-2
 
 Hello World
 
+<!--more-->
+
 日本語しか理解できないため,日本語で記事を投稿します
 
 内容はプログラミングのような技術系から適当な日記まで色々書くと思います
