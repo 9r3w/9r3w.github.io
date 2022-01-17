@@ -33,3 +33,7 @@ Country : Japan
 Build by **Jekyll**
 
 Deploy to **Github-Pages**
+
+## Links
+
+[GitHub](https://github.com/9r3w/)
