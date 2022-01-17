@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 9r3w's pages
+title: About me
 ---
 
-## About me
+## Overview
 
 Name : 9r3w
 
 Country : Japan
 
-### Interest / Fun
+## Interest / Fun
 
 - Proggraming / Development
   - Web Frontend( JS / TS / React )
@@ -26,7 +26,7 @@ Country : Japan
   - Pokémon
   - etc…
 
-### Others
+## Others
 
 日本語が一番書きやすいので、記事は日本語で書きます
 
